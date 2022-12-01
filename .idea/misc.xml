@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Drive D/Office Work/Faizan Mujahid Codes/NIkolos Apps/Police Speed Camera (Nikos)/app/src/main/res/layout/activity_add_point.xml" value="0.278125" />
+        <entry key="..\:/Drive D/Office Work/Faizan Mujahid Codes/NIkolos Apps/Police Speed Camera (Nikos)/app/src/main/res/layout/activity_main.xml" value="0.278125" />
+        <entry key="..\:/Drive D/Office Work/Faizan Mujahid Codes/NIkolos Apps/Police Speed Camera (Nikos)/app/src/main/res/layout/activity_splash.xml" value="0.278125" />
+        <entry key="..\:/Drive D/Office Work/Faizan Mujahid Codes/NIkolos Apps/Police Speed Camera (Nikos)/app/src/main/res/layout/exit.xml" value="0.278125" />
+        <entry key="..\:/Drive D/Office Work/Faizan Mujahid Codes/NIkolos Apps/Police Speed Camera (Nikos)/app/src/main/res/layout/fetching.xml" value="0.278125" />
+        <entry key="..\:/Police Speed Camera/app/src/main/res/layout/activity_add_point.xml" value="0.21829710144927536" />
+        <entry key="..\:/Police Speed Camera/app/src/main/res/layout/activity_main.xml" value="0.21829710144927536" />
+        <entry key="..\:/Police Speed Camera/app/src/main/res/layout/activity_splash.xml" value="0.21829710144927536" />
+        <entry key="app/src/main/res/drawable/curved_background.xml" value="0.1955" />
+        <entry key="app/src/main/res/drawable/curved_background_shimmerad.xml" value="0.189" />
+        <entry key="app/src/main/res/layout/activity_add_point.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/activity_welcome.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/custom_banner.xml" value="0.2984848022460937" />
+        <entry key="app/src/main/res/layout/custom_layout.xml" value="0.37604166666666666" />
+        <entry key="app/src/main/res/layout/data_placeholder_layout.xml" value="0.3609375" />
+        <entry key="app/src/main/res/layout/exit.xml" value="0.37604166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="EntryPointsManager">
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="android.annotation.SuppressLint" />
+    </list>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

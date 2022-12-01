@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Police Detector, Radar, Blitz Camera &amp; Alert</string>
+
+    <string name="google_maps_key">AIzaSyAOSpHNCGWOUVPg6n7ZtW7yKgq030peJLg</string>
+    <string name="banner">ca-app-pub-3940256099942544/6300978111</string>
+
+
+    <string name="ad_is_loadin_please_wait">Ad is Loading please wait</string>
+
+</resources>
